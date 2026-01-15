@@ -44,6 +44,8 @@ Let me analyze the options...
 </reasoning>
 <answer>B</answer>
 
+```xml
+
 Installation & Requirements
 This project is optimized for a TPU environment (specifically Kaggle TPUs or Google Colab).
 pip install "google-tunix[prod]==0.1.3"
