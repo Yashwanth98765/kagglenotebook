@@ -46,12 +46,7 @@ Let me analyze the options...
 
 ```xml
 
-Installation & Requirements
-This project is optimized for a TPU environment (specifically Kaggle TPUs or Google Colab).
-pip install "google-tunix[prod]==0.1.3"
-pip install flax==0.12.0
-pip install tensorflow tensorflow_datasets
-pip install wandb kagglehub
+
 
 
 
