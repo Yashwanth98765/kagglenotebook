@@ -44,8 +44,6 @@ Let me analyze the options...
 </reasoning>
 <answer>B</answer>
 
-```xml
-
 
 
 
